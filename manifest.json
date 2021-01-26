@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Docker",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(0, 145, 226)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(11, 33, 74)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
+      "tab_line": "rgb(0, 145, 226)",
+      "popup": "rgb(255, 255, 255)",
+      "popup_text": "rgb(11, 33, 74)",
+      "icons_attention": "rgb(11, 33, 74)",
+      "icons": "rgb(255, 255, 255)",
+      "tab_background_separator": "rgba(32, 32, 35, 0)",
+      "tab_selected": "rgba(255, 255, 255, 0)",
+      "toolbar_bottom_separator": "rgba(225, 234, 239, 0)",
+      "toolbar_field_border_focus": "rgba(32, 32, 35, 0)",
+      "toolbar_field_border": "rgba(0, 200, 215, 0)",
+      "toolbar_field_focus": "rgba(32, 32, 35, 0)",
+      "toolbar_field_separator": "rgba(0, 200, 215, 0)",
+      "toolbar_top_separator": "rgba(255, 255, 255, 0)",
+      "tab_loading": "rgb(0, 145, 226)"
+    }
+  }
+}
